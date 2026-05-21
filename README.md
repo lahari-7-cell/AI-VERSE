@@ -1,23 +1,27 @@
+# 🎤 AI Speech Recognition System
+
 ## 📌 Internship Task Submission
 
-### Intern Details
+###  Intern Details
 
 * Name: Galiveeti Devi Padma Lahari
 * Domain: Artificial Intelligence
-* Project: SmartSummarizer
+* Project: Speech Recognition System
 * Internship Provider: CodTech IT Solutions
+
+---
 
 ##  Project Overview
 
-SmartSummarizer is an Artificial Intelligence based Natural Language Processing (NLP) application developed using Python and HuggingFace Transformers. The project intelligently summarizes lengthy textual content into concise summaries using transformer-based AI models.
+This project is an Artificial Intelligence based Speech Recognition System developed using Python and SpeechRecognition libraries. The application converts spoken audio into readable text using AI-powered speech processing and Natural Language Processing techniques.
 
 ---
 
 ##  Features
 
-* AI-powered text summarization
-* Transformer-based NLP
-* Compression analytics
+* Audio-to-text conversion
+* AI-powered speech recognition
+* Intelligent transcription
 * Interactive terminal execution
 
 ---
@@ -25,25 +29,30 @@ SmartSummarizer is an Artificial Intelligence based Natural Language Processing 
 ## 🛠 Technologies Used
 
 * Python 3.10
-* HuggingFace Transformers
-* PyTorch
+* SpeechRecognition
+* Google Speech API
 * VS Code
 
 ---
 
 ## ▶ How to Run
 
-```bash id="q2ov9w"
-py -3.10 smart_summarizer.py
+```bash id="8wha8f"
+py -3.10 speech_recognition_system.py
 ```
 
 ---
 
 ##  Output
 
-The system generates:
+The system:
 
-* summarized article
-* word count analysis
-* compression efficiency percentage
+* accepts audio input
+* processes speech intelligently
+* converts speech into readable text
 
+---
+
+##  Status
+
+Task completed successfully.
